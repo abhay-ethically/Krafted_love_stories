@@ -1,0 +1,4 @@
+cd ~/Downloads/krafted_love_stories
+npm ci
+npm run generate:media   # creates thumbnails & media.json
+npm run dev               # preview at http://localhost:3000
